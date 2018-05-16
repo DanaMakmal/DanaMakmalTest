@@ -1,0 +1,239 @@
+/*<meta sourceDocument="C:\Users\dmakmal\Desktop\How to Make a Bed_ Quick Start Guide - Dana Silberman Makmal.docx" />*/
+
+p
+{
+	font-family: Arial;
+	font-size: 9pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ol
+{
+	font-family: Arial;
+	font-size: 9pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ul
+{
+	font-family: Arial;
+	font-size: 9pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+li
+{
+	font-family: Arial;
+	font-size: 9pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+td
+{
+	font-family: Arial;
+	font-size: 9pt;
+	vertical-align: top;
+}
+
+p.Header
+{
+	font-size: 9pt;
+	font-family: Arial;
+}
+
+p.p_footer
+{
+	margin-top: 3pt;
+	font-family: Arial;
+	color: #595959;
+	font-size: 9pt;
+}
+
+p.p_footerCopyright
+{
+	font-family: Arial;
+	color: #595959;
+	font-size: 7pt;
+}
+
+p.p_pagenum
+{
+	margin-top: 4pt;
+	text-align: right;
+	font-family: Arial;
+	color: #FA821E;
+	font-size: 10pt;
+}
+
+p.Footer
+{
+	font-size: 9pt;
+	font-family: Arial;
+}
+
+p.p_ProductName
+{
+	page-break-after: avoid;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #6C286B;
+	margin-top: 42pt;
+	margin-bottom: 2pt;
+	text-align: right;
+	font-family: Arial;
+	font-weight: bold;
+	color: #6C286B;
+	font-size: 28pt;
+}
+
+p.p_Title
+{
+	margin-top: 4pt;
+	margin-bottom: 36pt;
+	text-align: right;
+	font-family: Arial;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #FA821E;
+	font-size: 18pt;
+}
+
+p.p
+{
+	margin-bottom: 6pt;
+	font-family: Arial;
+}
+
+p.p_headingTOC
+{
+	margin-left: 4pt;
+	font-weight: bold;
+	font-size: 16pt;
+	page-break-after: avoid;
+	margin-top: 6pt;
+	font-family: Arial;
+	color: #6C286B;
+}
+
+p.TOC1
+{
+	margin-top: 3pt;
+	margin-bottom: 3pt;
+	margin-left: 4pt;
+	font-family: Arial;
+	color: #000000;
+	font-size: 9pt;
+}
+
+h2.Heading2
+{
+	page-break-after: avoid;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #6C286B;
+	margin-top: 18pt;
+	margin-bottom: 10pt;
+	mc-heading-level: 2;
+	font-family: Arial;
+	font-weight: bold;
+	color: #6C286B;
+	font-size: 18pt;
+}
+
+li.p_ol1
+{
+	margin-bottom: 6pt;
+	font-family: Arial;
+	color: #000000;
+}
+
+span.span_1
+{
+	color: #FF0000;
+}
+
+p.p_ProductName_1
+{
+	page-break-after: avoid;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	margin-top: 42pt;
+	margin-bottom: 2pt;
+	text-align: right;
+	font-family: Arial;
+	font-weight: bold;
+	color: #6C286B;
+	font-size: 28pt;
+	border-bottom-color: #FF0000;
+}
+
+span.span_2
+{
+	color: black;
+}
+
+span.span_3
+{
+	font-weight: bold;
+}
+
+p.p_1
+{
+	font-family: Arial;
+	margin-bottom: 0pt;
+}
+
+td.td_1
+{
+	border-top-style: none;
+	border-bottom-style: none;
+	background-color: #auto;
+	padding-left: 0pt;
+	padding-right: 6pt;
+}
+
+table.table_1
+{
+	border-collapse: collapse;
+}
+
+h2.Heading2_1
+{
+	page-break-after: avoid;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	margin-top: 18pt;
+	margin-bottom: 10pt;
+	mc-heading-level: 2;
+	font-family: Arial;
+	font-weight: bold;
+	color: #6C286B;
+	font-size: 18pt;
+	border-bottom-color: #FF0000;
+}
+
+ol.ol_1
+{
+	list-style-type: decimal;
+	margin-left: 18pt;
+}
+
+td.td_2
+{
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: #FF0000;
+	padding-left: 1pt;
+	padding-right: 1pt;
+}
+
+table.table_2
+{
+	margin-left: 5pt;
+	border-collapse: collapse;
+}
+
